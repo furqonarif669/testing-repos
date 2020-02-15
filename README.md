@@ -1,1 +1,3 @@
 # testing-repos
+
+Iseng melakukan test di repo akun baru, akhirnya saya pakai github, heheh...
